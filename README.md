@@ -1,5 +1,11 @@
-lab-4c24-NY-Project-2
+# lab-4c24-NY-Project-2
 
-Nelson Yagua
+Aplicacion web que nos permita 
+registrar nuestro proceso de cada dia
+y guardar nuestro logros diarios
 
-Laboratorio 2
+## Getting Started
+
+Diseñar la app web
+Maquetar pagina web
+Empezar con las funcionaldides
